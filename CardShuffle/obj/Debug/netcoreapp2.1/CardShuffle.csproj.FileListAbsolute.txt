@@ -1,0 +1,11 @@
+C:\Users\ainon\ExtendedLearning\CardShuffle\CardShuffle\bin\Debug\netcoreapp2.1\CardShuffle.deps.json
+C:\Users\ainon\ExtendedLearning\CardShuffle\CardShuffle\bin\Debug\netcoreapp2.1\CardShuffle.runtimeconfig.json
+C:\Users\ainon\ExtendedLearning\CardShuffle\CardShuffle\bin\Debug\netcoreapp2.1\CardShuffle.runtimeconfig.dev.json
+C:\Users\ainon\ExtendedLearning\CardShuffle\CardShuffle\bin\Debug\netcoreapp2.1\CardShuffle.dll
+C:\Users\ainon\ExtendedLearning\CardShuffle\CardShuffle\bin\Debug\netcoreapp2.1\CardShuffle.pdb
+C:\Users\ainon\ExtendedLearning\CardShuffle\CardShuffle\obj\Debug\netcoreapp2.1\CardShuffle.csproj.CoreCompileInputs.cache
+C:\Users\ainon\ExtendedLearning\CardShuffle\CardShuffle\obj\Debug\netcoreapp2.1\CardShuffle.AssemblyInfoInputs.cache
+C:\Users\ainon\ExtendedLearning\CardShuffle\CardShuffle\obj\Debug\netcoreapp2.1\CardShuffle.AssemblyInfo.cs
+C:\Users\ainon\ExtendedLearning\CardShuffle\CardShuffle\obj\Debug\netcoreapp2.1\CardShuffle.dll
+C:\Users\ainon\ExtendedLearning\CardShuffle\CardShuffle\obj\Debug\netcoreapp2.1\CardShuffle.pdb
+C:\Users\ainon\ExtendedLearning\CardShuffle\CardShuffle\obj\Debug\netcoreapp2.1\CardShuffle.csprojAssemblyReference.cache
